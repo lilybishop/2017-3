@@ -1,0 +1,27 @@
+{
+  "name": "2017-3",
+  "version": "0.0.2",
+  "description": "learning node server ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lilybishop/2017-3.git"
+  },
+  "keywords": [
+    "learn",
+    "node",
+    "server"
+  ],
+  "author": "Lily Bishop",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lilybishop/2017-3/issues"
+  },
+  "homepage": "https://github.com/lilybishop/2017-3#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
